@@ -14,3 +14,4 @@ tools/buck
 
 # Make
 *.d
+/.vscode/settings.json
